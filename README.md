@@ -10,6 +10,7 @@ node app.js
 URL: 127.0.0.1/3000
 
 I use JSON object as in memory space for this exam. For it to be use by the checker efficiently
+
 var customers = {
   0 : {
     "name" : "Rose",
@@ -35,6 +36,7 @@ var customers = {
     "amount" : 10000,
   }
 };
+
 API Calls:
 
 /transfer
